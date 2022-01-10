@@ -28,3 +28,11 @@ and you cann encrypt your trojan server  exe or vbs
 ![VPN](https://user-images.githubusercontent.com/74623428/148708275-20df60eb-e41e-424c-9120-839b75f51513.gif)
 
 ** **
+
+ملاحظه 
+
+لا يوجد سورس كود 
+
+Ther is no SRC
+
+** **
